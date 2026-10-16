@@ -2,15 +2,15 @@
   "classData": {
     "info": {
       "className": "KELAS 7.1",
-      "schoolName": "SMP NEGERI 1 NUSANTARA",
+      "schoolName": "MTS AL-ALMURSYIDIYYAH",
       "academicYear": "2026 / 2027",
       "tagline": "Solidaritas, Integritas, dan Semangat Berkarya",
       "motto": "Belajar dengan tekun, kompak dalam kebaikan, dan berprestasi bersama.",
-      "waliKelas": "Ibu Dra. Hj. Ratna Juwita, M.Pd",
-      "waliKontak": "+62 812-3456-7890",
-      "ketuaKelas": "Yamasy Pratama",
-      "yamasyPhoto": "/src/assets/images/yamasy_avatar_1792145888767.jpg",
-      "yamasyBio": "Ketua Kelas 7.1. Hubungi jika ada kendala di kelas atau keperluan administrasi."
+      "waliKelas": "Ibu Ricka Dwiaryani",
+      "waliKontak": "+62 812-9872-5403",
+      "ketuaKelas": "M.zio",
+      "yamasyPhoto": "https://files.catbox.moe/twd2b4.png",
+      "yamasyBio": "Ketua Kelas 7.1 adalah M.zio Hubungi jika ada kendala di kelas atau keperluan administrasi."
     },
     "schedule": [
       {
@@ -18,7 +18,7 @@
         "day": "Senin",
         "lessons": [
           {
-            "time": "07.00 - 07.45",
+            "time": "06.00 - 07.45",
             "subject": "Upacara Bendera",
             "teacher": "Seluruh Guru & Siswa",
             "room": "Lapangan Utama"
