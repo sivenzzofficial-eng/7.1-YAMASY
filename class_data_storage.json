@@ -1,0 +1,703 @@
+{
+  "classData": {
+    "info": {
+      "className": "KELAS 7.1",
+      "schoolName": "SMP NEGERI 1 NUSANTARA",
+      "academicYear": "2026 / 2027",
+      "tagline": "Solidaritas, Integritas, dan Semangat Berkarya",
+      "motto": "Belajar dengan tekun, kompak dalam kebaikan, dan berprestasi bersama.",
+      "waliKelas": "Ibu Dra. Hj. Ratna Juwita, M.Pd",
+      "waliKontak": "+62 812-3456-7890",
+      "ketuaKelas": "Yamasy Pratama",
+      "yamasyPhoto": "/src/assets/images/yamasy_avatar_1792145888767.jpg",
+      "yamasyBio": "Ketua Kelas 7.1. Hubungi jika ada kendala di kelas atau keperluan administrasi."
+    },
+    "schedule": [
+      {
+        "id": "senin",
+        "day": "Senin",
+        "lessons": [
+          {
+            "time": "07.00 - 07.45",
+            "subject": "Upacara Bendera",
+            "teacher": "Seluruh Guru & Siswa",
+            "room": "Lapangan Utama"
+          },
+          {
+            "time": "07.45 - 09.05",
+            "subject": "Matematika",
+            "teacher": "Drs. Hendro Wibowo",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "09.05 - 09.25",
+            "subject": "Istirahat I",
+            "teacher": "-",
+            "room": "Kantin / Area Sekolah"
+          },
+          {
+            "time": "09.25 - 10.45",
+            "subject": "Bahasa Indonesia",
+            "teacher": "Dra. Hj. Ratna Juwita",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "10.45 - 12.05",
+            "subject": "Ilmu Pengetahuan Alam (IPA)",
+            "teacher": "Maya Safitri, S.Pd",
+            "room": "Lab IPA / Ruang 7.1"
+          },
+          {
+            "time": "12.05 - 13.00",
+            "subject": "Sholat Dzuhur & Istirahat II",
+            "teacher": "-",
+            "room": "Masjid / Ruang Kelas"
+          },
+          {
+            "time": "13.00 - 14.20",
+            "subject": "Informatika",
+            "teacher": "Arif Setiawan, S.Kom",
+            "room": "Lab Komputer 1"
+          }
+        ]
+      },
+      {
+        "id": "selasa",
+        "day": "Selasa",
+        "lessons": [
+          {
+            "time": "07.00 - 07.30",
+            "subject": "Tadarus & Literasi Pagi",
+            "teacher": "Wali Kelas",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "07.30 - 08.50",
+            "subject": "Bahasa Inggris",
+            "teacher": "Kevin Pratama, M.Pd",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "08.50 - 10.10",
+            "subject": "Ilmu Pengetahuan Sosial (IPS)",
+            "teacher": "Suryadi, S.Pd",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "10.10 - 10.30",
+            "subject": "Istirahat I",
+            "teacher": "-",
+            "room": "-"
+          },
+          {
+            "time": "10.30 - 11.50",
+            "subject": "Pendidikan Agama & Budi Pekerti",
+            "teacher": "Ust. Fauzi Rahmat, S.Ag",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "11.50 - 12.40",
+            "subject": "Pendidikan Pancasila (PPKn)",
+            "teacher": "Dimas Anggoro, S.Pd",
+            "room": "Ruang 7.1"
+          }
+        ]
+      },
+      {
+        "id": "rabu",
+        "day": "Rabu",
+        "lessons": [
+          {
+            "time": "07.00 - 08.20",
+            "subject": "Pendidikan Jasmani (PJOK)",
+            "teacher": "Bambang Irawan, S.Pd",
+            "room": "Lapangan Olahraga"
+          },
+          {
+            "time": "08.20 - 09.40",
+            "subject": "Matematika",
+            "teacher": "Drs. Hendro Wibowo",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "09.40 - 10.00",
+            "subject": "Istirahat",
+            "teacher": "-",
+            "room": "-"
+          },
+          {
+            "time": "10.00 - 11.20",
+            "subject": "Seni Budaya",
+            "teacher": "Kartika Sari, S.Sn",
+            "room": "Ruang Seni"
+          },
+          {
+            "time": "11.20 - 12.40",
+            "subject": "Bahasa Daerah",
+            "teacher": "Nining Sulastri, S.Pd",
+            "room": "Ruang 7.1"
+          }
+        ]
+      },
+      {
+        "id": "kamis",
+        "day": "Kamis",
+        "lessons": [
+          {
+            "time": "07.00 - 07.30",
+            "subject": "Pembiasaan Karakter & Senam Otak",
+            "teacher": "Guru Piket",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "07.30 - 08.50",
+            "subject": "Ilmu Pengetahuan Alam (IPA)",
+            "teacher": "Maya Safitri, S.Pd",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "08.50 - 10.10",
+            "subject": "Bahasa Indonesia",
+            "teacher": "Dra. Hj. Ratna Juwita",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "10.10 - 10.30",
+            "subject": "Istirahat",
+            "teacher": "-",
+            "room": "-"
+          },
+          {
+            "time": "10.30 - 11.50",
+            "subject": "Prakarya",
+            "teacher": "Joko Widodo, S.T",
+            "room": "Ruang Prakarya"
+          },
+          {
+            "time": "11.50 - 12.35",
+            "subject": "Bimbingan Konseling (BK)",
+            "teacher": "Linda Kurnia, S.Psi",
+            "room": "Ruang 7.1"
+          }
+        ]
+      },
+      {
+        "id": "jumat",
+        "day": "Jumat",
+        "lessons": [
+          {
+            "time": "07.00 - 07.45",
+            "subject": "Senam Pagi Sehat & Kebersihan Lingkungan",
+            "teacher": "Tim Kesiswaan",
+            "room": "Halaman Sekolah"
+          },
+          {
+            "time": "07.45 - 09.05",
+            "subject": "Bahasa Inggris",
+            "teacher": "Kevin Pratama, M.Pd",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "09.05 - 09.25",
+            "subject": "Istirahat",
+            "teacher": "-",
+            "room": "-"
+          },
+          {
+            "time": "09.25 - 10.45",
+            "subject": "Pendidikan Pancasila (PPKn)",
+            "teacher": "Dimas Anggoro, S.Pd",
+            "room": "Ruang 7.1"
+          },
+          {
+            "time": "10.45 - 11.30",
+            "subject": "Kegiatan Rohani / Sholat Jumat Berjamaah",
+            "teacher": "Guru PAI",
+            "room": "Masjid Sekolah"
+          }
+        ]
+      }
+    ],
+    "cleaningRoster": [
+      {
+        "id": "piket-senin",
+        "day": "Senin",
+        "leader": "Yamasy Pratama",
+        "members": [
+          "Aditya Nugraha",
+          "Annisa Zahra",
+          "Bagus Ramadhan",
+          "Citra Kirana",
+          "Dava Alfarizi",
+          "Eka Nuraini"
+        ]
+      },
+      {
+        "id": "piket-selasa",
+        "day": "Selasa",
+        "leader": "Dimas Rizky",
+        "members": [
+          "Fajar Hidayat",
+          "Gita Gutawa",
+          "Hafizh Pratama",
+          "Intan Permata",
+          "Jovanka Aurel",
+          "Kenzo Putra"
+        ]
+      },
+      {
+        "id": "piket-rabu",
+        "day": "Rabu",
+        "leader": "Nadia Salsa",
+        "members": [
+          "Luthfi Hakim",
+          "Maulana Malik",
+          "Nabila Syakieb",
+          "Oliver Syahputra",
+          "Putri Ayu",
+          "Rafi Ahmad"
+        ]
+      },
+      {
+        "id": "piket-kamis",
+        "day": "Kamis",
+        "leader": "Reza Pratama",
+        "members": [
+          "Sabrina Maharani",
+          "Taufik Hidayat",
+          "Umar Al-Faruq",
+          "Vina Panduwinata",
+          "Wahyu Setiawan",
+          "Yasmin Zahira"
+        ]
+      },
+      {
+        "id": "piket-jumat",
+        "day": "Jumat",
+        "leader": "Alif Kurniawan",
+        "members": [
+          "Zack Lee",
+          "Arya Wiguna",
+          "Bunga Citra",
+          "Cynthia Bella",
+          "Danang Sasmita",
+          "Erina Gudono"
+        ]
+      }
+    ],
+    "structure": [
+      {
+        "id": "wali",
+        "position": "Wali Kelas",
+        "name": "Dra. Hj. Ratna Juwita, M.Pd",
+        "role": "Pembimbing & Pengarah Kelas"
+      },
+      {
+        "id": "ketua",
+        "position": "Ketua Kelas",
+        "name": "Yamasy Pratama",
+        "role": "Koordinator Kelas & Administrator"
+      },
+      {
+        "id": "wakil",
+        "position": "Wakil Ketua Kelas",
+        "name": "Dimas Rizky",
+        "role": "Membantu & Menggantikan Ketua Kelas"
+      },
+      {
+        "id": "sekretaris1",
+        "position": "Sekretaris 1",
+        "name": "Nadia Salsa",
+        "role": "Pencatatan Notula, Absensi & Surat"
+      },
+      {
+        "id": "sekretaris2",
+        "position": "Sekretaris 2",
+        "name": "Intan Permata",
+        "role": "Dokumentasi & Administrasi Tugas"
+      },
+      {
+        "id": "bendahara1",
+        "position": "Bendahara 1",
+        "name": "Reza Pratama",
+        "role": "Pengelolaan Uang Kas & Keuangan"
+      },
+      {
+        "id": "bendahara2",
+        "position": "Bendahara 2",
+        "name": "Annisa Zahra",
+        "role": "Pencatatan Buku Kas & Laporan"
+      },
+      {
+        "id": "seksi_kebersihan",
+        "position": "Seksi Kebersihan",
+        "name": "Bagus Ramadhan",
+        "role": "Penanggung Jawab Kelayakan Ruang Kelas"
+      },
+      {
+        "id": "seksi_keamanan",
+        "position": "Seksi Keamanan & Ketertiban",
+        "name": "Alif Kurniawan",
+        "role": "Menjaga Kondusivitas Belajar Mengajar"
+      },
+      {
+        "id": "seksi_olahraga",
+        "position": "Seksi Olahraga",
+        "name": "Fajar Hidayat",
+        "role": "Koordinator Kegiatan Olahraga & Classmeeting"
+      },
+      {
+        "id": "seksi_rohani",
+        "position": "Seksi Kerohanian",
+        "name": "Hafizh Pratama",
+        "role": "Koordinator Ibadah & Kegiatan Keagamaan"
+      }
+    ],
+    "announcements": [
+      {
+        "id": "ann-1",
+        "title": "Tugas Kelompok IPA: Pembuatan Model Sel Tumbuhan",
+        "category": "Tugas",
+        "date": "2026-10-15",
+        "dueDate": "2026-10-22",
+        "content": "Setiap kelompok (5-6 orang) wajib mengumpulkan miniatur sel tumbuhan dari plastisin atau styrofoam beserta laporan penjelasannya.",
+        "isUrgent": true
+      },
+      {
+        "id": "ann-2",
+        "title": "Iuran Kas Mingguan Kelas 7.1",
+        "category": "Pengumuman",
+        "date": "2026-10-14",
+        "content": "Iuran kas kelas sebesar Rp 5.000 per minggu untuk keperluan spidol, perlengkapan piket, dan tabungan kelas. Silakan setor ke Bendahara (Reza / Annisa).",
+        "isUrgent": false
+      },
+      {
+        "id": "ann-3",
+        "title": "Persiapan Penilaian Tengah Semester (PTS) Ganjil",
+        "category": "Ujian",
+        "date": "2026-10-12",
+        "dueDate": "2026-10-28",
+        "content": "PTS akan dimulai akhir bulan ini. Harap seluruh siswa melengkapi buku catatan dan tugas-tugas yang belum diserahkan ke guru pengampu.",
+        "isUrgent": true
+      },
+      {
+        "id": "ann-4",
+        "title": "Perlengkapan Mata Pelajaran Seni Budaya (Rabu)",
+        "category": "Kegiatan",
+        "date": "2026-10-10",
+        "content": "Membawa buku gambar A3, pensil 2B, dan cat air / pensil warna untuk materi menggambar ragam hias fauna.",
+        "isUrgent": false
+      }
+    ],
+    "students": [
+      {
+        "id": "st-1",
+        "absentNo": 1,
+        "fullName": "Aditya Nugraha",
+        "nickname": "Adit",
+        "gender": "L"
+      },
+      {
+        "id": "st-2",
+        "absentNo": 2,
+        "fullName": "Alif Kurniawan",
+        "nickname": "Alif",
+        "gender": "L"
+      },
+      {
+        "id": "st-3",
+        "absentNo": 3,
+        "fullName": "Annisa Zahra",
+        "nickname": "Annisa",
+        "gender": "P"
+      },
+      {
+        "id": "st-4",
+        "absentNo": 4,
+        "fullName": "Arya Wiguna",
+        "nickname": "Arya",
+        "gender": "L"
+      },
+      {
+        "id": "st-5",
+        "absentNo": 5,
+        "fullName": "Bagus Ramadhan",
+        "nickname": "Bagus",
+        "gender": "L"
+      },
+      {
+        "id": "st-6",
+        "absentNo": 6,
+        "fullName": "Bunga Citra",
+        "nickname": "Bunga",
+        "gender": "P"
+      },
+      {
+        "id": "st-7",
+        "absentNo": 7,
+        "fullName": "Citra Kirana",
+        "nickname": "Citra",
+        "gender": "P"
+      },
+      {
+        "id": "st-8",
+        "absentNo": 8,
+        "fullName": "Cynthia Bella",
+        "nickname": "Bella",
+        "gender": "P"
+      },
+      {
+        "id": "st-9",
+        "absentNo": 9,
+        "fullName": "Danang Sasmita",
+        "nickname": "Danang",
+        "gender": "L"
+      },
+      {
+        "id": "st-10",
+        "absentNo": 10,
+        "fullName": "Dava Alfarizi",
+        "nickname": "Dava",
+        "gender": "L"
+      },
+      {
+        "id": "st-11",
+        "absentNo": 11,
+        "fullName": "Dimas Rizky",
+        "nickname": "Dimas",
+        "gender": "L"
+      },
+      {
+        "id": "st-12",
+        "absentNo": 12,
+        "fullName": "Eka Nuraini",
+        "nickname": "Eka",
+        "gender": "P"
+      },
+      {
+        "id": "st-13",
+        "absentNo": 13,
+        "fullName": "Erina Gudono",
+        "nickname": "Erina",
+        "gender": "P"
+      },
+      {
+        "id": "st-14",
+        "absentNo": 14,
+        "fullName": "Fajar Hidayat",
+        "nickname": "Fajar",
+        "gender": "L"
+      },
+      {
+        "id": "st-15",
+        "absentNo": 15,
+        "fullName": "Gita Gutawa",
+        "nickname": "Gita",
+        "gender": "P"
+      },
+      {
+        "id": "st-16",
+        "absentNo": 16,
+        "fullName": "Hafizh Pratama",
+        "nickname": "Hafizh",
+        "gender": "L"
+      },
+      {
+        "id": "st-17",
+        "absentNo": 17,
+        "fullName": "Intan Permata",
+        "nickname": "Intan",
+        "gender": "P"
+      },
+      {
+        "id": "st-18",
+        "absentNo": 18,
+        "fullName": "Jovanka Aurel",
+        "nickname": "Aurel",
+        "gender": "P"
+      },
+      {
+        "id": "st-19",
+        "absentNo": 19,
+        "fullName": "Kenzo Putra",
+        "nickname": "Kenzo",
+        "gender": "L"
+      },
+      {
+        "id": "st-20",
+        "absentNo": 20,
+        "fullName": "Luthfi Hakim",
+        "nickname": "Luthfi",
+        "gender": "L"
+      },
+      {
+        "id": "st-21",
+        "absentNo": 21,
+        "fullName": "Maulana Malik",
+        "nickname": "Malik",
+        "gender": "L"
+      },
+      {
+        "id": "st-22",
+        "absentNo": 22,
+        "fullName": "Nabila Syakieb",
+        "nickname": "Bila",
+        "gender": "P"
+      },
+      {
+        "id": "st-23",
+        "absentNo": 23,
+        "fullName": "Nadia Salsa",
+        "nickname": "Nadia",
+        "gender": "P"
+      },
+      {
+        "id": "st-24",
+        "absentNo": 24,
+        "fullName": "Oliver Syahputra",
+        "nickname": "Oliver",
+        "gender": "L"
+      },
+      {
+        "id": "st-25",
+        "absentNo": 25,
+        "fullName": "Putri Ayu",
+        "nickname": "Putri",
+        "gender": "P"
+      },
+      {
+        "id": "st-26",
+        "absentNo": 26,
+        "fullName": "Rafi Ahmad",
+        "nickname": "Rafi",
+        "gender": "L"
+      },
+      {
+        "id": "st-27",
+        "absentNo": 27,
+        "fullName": "Reza Pratama",
+        "nickname": "Reza",
+        "gender": "L"
+      },
+      {
+        "id": "st-28",
+        "absentNo": 28,
+        "fullName": "Sabrina Maharani",
+        "nickname": "Sabrina",
+        "gender": "P"
+      },
+      {
+        "id": "st-29",
+        "absentNo": 29,
+        "fullName": "Taufik Hidayat",
+        "nickname": "Taufik",
+        "gender": "L"
+      },
+      {
+        "id": "st-30",
+        "absentNo": 30,
+        "fullName": "Umar Al-Faruq",
+        "nickname": "Umar",
+        "gender": "L"
+      },
+      {
+        "id": "st-31",
+        "absentNo": 31,
+        "fullName": "Yamasy Pratama",
+        "nickname": "Yamasy",
+        "gender": "L"
+      },
+      {
+        "id": "st-32",
+        "absentNo": 32,
+        "fullName": "Yasmin Zahira",
+        "nickname": "Yasmin",
+        "gender": "P"
+      }
+    ]
+  },
+  "trackedIPs": [
+    {
+      "ip": "127.0.0.1",
+      "firstSeen": "2026-10-16 10:25:03",
+      "lastSeen": "2026-10-16 10:28:04",
+      "visitCount": 59,
+      "isBanned": false,
+      "failedLoginAttempts": 0,
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36"
+    },
+    {
+      "ip": "203.0.113.88",
+      "firstSeen": "2026-10-16 10:27:42",
+      "lastSeen": "2026-10-16 10:27:42",
+      "visitCount": 0,
+      "isBanned": false,
+      "failedLoginAttempts": 0
+    }
+  ],
+  "securityLogs": [
+    {
+      "id": "log-1792146484412-a7g3d",
+      "timestamp": "2026-10-16 10:28:04",
+      "ip": "127.0.0.1",
+      "type": "ip_unban",
+      "severity": "normal",
+      "details": "TINDAKAN ADMIN: Pemblokiran untuk IP 203.0.113.88 telah DICABUT.",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36"
+    },
+    {
+      "id": "log-1792146462231-27uaj",
+      "timestamp": "2026-10-16 10:27:42",
+      "ip": "127.0.0.1",
+      "type": "ip_ban",
+      "severity": "danger",
+      "details": "TINDAKAN ADMIN: IP 203.0.113.88 berhasil DIBLOKIR. Alasan: \"Percobaan hacking portal\".",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36"
+    },
+    {
+      "id": "log-1792146392428-2w84c",
+      "timestamp": "2026-10-16 10:26:32",
+      "ip": "127.0.0.1",
+      "type": "admin_login_success",
+      "severity": "normal",
+      "details": "Otentikasi Admin Yamasy BERHASIL. Sesi kontrol diaktifkan.",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36"
+    },
+    {
+      "id": "log-1792146303964-s004p",
+      "timestamp": "2026-10-16 10:25:03",
+      "ip": "127.0.0.1",
+      "type": "visit",
+      "severity": "normal",
+      "details": "Pengunjung baru terdeteksi: 127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.8059.12 Safari/537.36"
+    },
+    {
+      "id": "log-seed-1",
+      "timestamp": "2026-10-16 08:24:47",
+      "ip": "127.0.0.1",
+      "type": "visit",
+      "severity": "normal",
+      "details": "Pengunjung terhubung ke Portal Kelas 7.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    },
+    {
+      "id": "log-seed-2",
+      "timestamp": "2026-10-16 08:59:47",
+      "ip": "114.122.34.12",
+      "type": "visit",
+      "severity": "normal",
+      "details": "Siswa memeriksa jadwal pelajaran dan pengumuman",
+      "userAgent": "Mozilla/5.0 (Android 14; Mobile)"
+    },
+    {
+      "id": "log-seed-3",
+      "timestamp": "2026-10-16 09:39:47",
+      "ip": "182.253.160.88",
+      "type": "visit",
+      "severity": "normal",
+      "details": "Pengunjung memeriksa jadwal piket kelas",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4)"
+    }
+  ]
+}

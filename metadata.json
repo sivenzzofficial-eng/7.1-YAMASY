@@ -1,0 +1,6 @@
+{
+  "name": "Portal Kelas 7.1 & Admin Hub",
+  "description": "Website resmi kelas 7.1 dengan jadwal pelajaran, pengumuman, struktur organisasi, panel admin rahasia Yamasy, sistem pelacakan IP, dan pemantauan aktivitas real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
